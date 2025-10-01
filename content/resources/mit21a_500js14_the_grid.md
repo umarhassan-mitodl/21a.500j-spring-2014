@@ -5,6 +5,8 @@ description: 'Example of student work for a writing assignment on an imagined fu
 file: /courses/21a-500j-technology-and-culture-spring-2014/efe70b7d32f34ea15d7bae59d4bbecf6_MIT21A_500JS14_the_grid.pdf
 file_size: 303815
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
