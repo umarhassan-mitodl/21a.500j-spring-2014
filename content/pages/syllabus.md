@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, requirements, and MIT's Writing and Communication
   Center.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,7 +26,7 @@ This 9-unit subject examines relationships among technology, culture, and politi
 
 Classes will combine interactive lectures, film screenings, and discussion. Each class is keyed to a set of readings, and it is crucial that students keep up with the readings and be prepared to discuss them in class. Some lectures will directly engage our readings while others will provide contextualizing historical and theoretical information. We will routinely break into small groups for more concentrated discussion. Class participation will count strongly towards the final grade.
 
-We expect students to adhere to MIT's guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the [Office of Student Conduct](https://studentlife.mit.edu/osc) or [Committee on Discipline](http://web.mit.edu/committees/cod/). If you have questions about what qualifies as plagiarism and how to avoid it—and for tips on how to succeed—check out: [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/).
+We expect students to adhere to MIT's guidelines on academic integrity. Plagiarism, unauthorized collaboration, cheating, or facilitating academic dishonesty may cause us to contact the {{% resource_link "67a0ebd7-d6b1-4066-b42d-df27f7efa006" "Office of Student Conduct" %}} or {{% resource_link "a2ec7a1e-4e81-4883-bc53-54fbcc4b8b1c" "Committee on Discipline" %}}. If you have questions about what qualifies as plagiarism and how to avoid it—and for tips on how to succeed—check out: {{% resource_link "602a9d6d-7dc0-4728-bcd8-604e5fed64d6" "Academic Integrity at MIT: A Handbook for Students" %}}.
 
 Requirements
 ------------
@@ -42,4 +40,4 @@ Please bring to class the required readings for each session—a book, or printe
 Writing and Communication Center
 --------------------------------
 
-MIT's [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) offers free consultation as well as on-line help to MIT students at any stage of the writing process. Get help overcoming writer's block and formulating an argument, and with questions on grammar and style. (Writing Center consultants do not proofread, but they do offer help with grammar and beyond).
+MIT's {{% resource_link "170b288f-944d-42f9-999d-c02ca47506c2" "Writing and Communication Center" %}} offers free consultation as well as on-line help to MIT students at any stage of the writing process. Get help overcoming writer's block and formulating an argument, and with questions on grammar and style. (Writing Center consultants do not proofread, but they do offer help with grammar and beyond).

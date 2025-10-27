@@ -4,8 +4,6 @@ description: Example of student work for a writing assignment on technology and 
 file: /courses/21a-500j-technology-and-culture-spring-2014/f97be155175b2bae73eb0a2c994c38eb_MIT21A_500JS14_the_glyph.pdf
 file_size: 241427
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
